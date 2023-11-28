@@ -1,4 +1,4 @@
-[![MasterHead](https://c8.alamy.com/comp/MP6D15/job-opening-front-end-developer-3d-MP6D15.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Elmira Sahibova</h1>
 <h3 align="center">Front-end developer from Azerbaijan</h3>
